@@ -24,4 +24,4 @@ It helps identify trends in customer behavior, order quantity, and sales perform
 📸 Dashboard Preview
 
 ![Dashboard Screenshot 1](Screenshot%202025-06-16%20110207.png)  
-![Dashboard Screenshot 2](Screenshot%202025-06-16%2011021.png)
+![Dashboard Screenshot 2](Screenshot%202025-06-16%20110121.png)
