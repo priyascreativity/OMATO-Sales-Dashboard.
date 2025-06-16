@@ -22,6 +22,5 @@ It helps identify trends in customer behavior, order quantity, and sales perform
 📈 Insight Example:
 > Samosa and Butter Chicken were top-performing items while Palak Paneer and Paneer Tikka had the lowest sales. Most transactions were made through UPI, and Gold members ordered significantly more main courses than Regular members.
 📸 Dashboard Preview
-
-![Dashboard Screenshot 1](Screenshot%202025-06-16%20110207.png)  
 ![Dashboard Screenshot 2](Screenshot%202025-06-16%20110121.png)
+![Dashboard Screenshot 1](Screenshot%202025-06-16%20110207.png)  
